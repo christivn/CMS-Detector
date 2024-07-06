@@ -13,8 +13,6 @@ cmsDetector.analyze("http://impresorad3d.com")
 
 ## 📡 Detectables CMS
 
-We only detect CMS we can migrate to **Hostie.me**
-
 | CMS | Detectable |
 |-----|------------|
 | Wordpress | ✅ |
