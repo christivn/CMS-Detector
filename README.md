@@ -3,7 +3,10 @@
 ## ⚡ Usage
 
 ```
-??????
+import cmsDetector
+cmsDetector.analyze("http://impresorad3d.com")
+
+# Output: Wordpress
 ```
 
 <br>
@@ -18,9 +21,10 @@ We only detect CMS we can migrate to **Hostie.me**
 | Woocommerce | ✅ |
 | Joomla | ✅ |
 | Drupal | ✅ |
-| TYPO3 CMS | ❌ |
-| Google Sites | ❌ |
-| GoDaddy Builder | ❌ |
-| Wix | ❌ |
-| Squarespace | ❌ |
-| Webflow | ❌ |
+| Prestashop | ✅ |
+| Wix | ✅ |
+| Weebly | ✅ |
+| Jimdo | ✅ |
+| Godaddy Builder | ✅ |
+| IONOS Builder | ✅ |
+
